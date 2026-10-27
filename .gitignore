@@ -1,0 +1,33 @@
+# Large data artifacts — not stored on GitHub (exceed the 100 MB per-file limit).
+# See README.md "Data files" for where to obtain them.
+neo4j.dump
+*.faa
+*.fna
+*.fasta
+import/*.csv
+
+# Pipeline working directories / downloads
+data/
+downloads/
+ncbi_dataset/
+*.zip
+*.gz
+*.tar
+cddid.tbl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local tool settings
+.claude/settings.local.json

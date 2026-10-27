@@ -1,0 +1,175 @@
+{
+  "refseq_release": null,
+  "organisms": [
+    {
+      "taxid": 9606,
+      "scientific_name": "Homo sapiens",
+      "common_name": "human",
+      "assembly_accession": "GCF_000001405.40",
+      "assembly_name": "GRCh38.p14",
+      "assembly_level": "Chromosome",
+      "refseq_category": "reference genome",
+      "annotation_name": "GCF_000001405.40-RS_2025_08",
+      "annotation_release_date": "2025-08-01",
+      "gene_counts": {
+        "non_coding": 22235,
+        "other": 411,
+        "protein_coding": 20076,
+        "pseudogene": 17070,
+        "total": 59792
+      },
+      "gene_taxid": 9606,
+      "gene_taxname": "Homo sapiens"
+    },
+    {
+      "taxid": 10090,
+      "scientific_name": "Mus musculus",
+      "common_name": "house mouse",
+      "assembly_accession": "GCF_000001635.27",
+      "assembly_name": "GRCm39",
+      "assembly_level": "Chromosome",
+      "refseq_category": "reference genome",
+      "annotation_name": "GCF_000001635.27-RS_2024_02",
+      "annotation_release_date": "2024-02-01",
+      "gene_counts": {
+        "non_coding": 17705,
+        "other": 497,
+        "protein_coding": 22198,
+        "pseudogene": 10363,
+        "total": 50763
+      },
+      "gene_taxid": 10090,
+      "gene_taxname": "Mus musculus"
+    },
+    {
+      "taxid": 10116,
+      "scientific_name": "Rattus norvegicus",
+      "common_name": "Norway rat",
+      "assembly_accession": "GCF_036323735.1",
+      "assembly_name": "GRCr8",
+      "assembly_level": "Chromosome",
+      "refseq_category": "",
+      "annotation_name": "GCF_036323735.1-RS_2026_08",
+      "annotation_release_date": "2026-08-17",
+      "gene_counts": {
+        "non_coding": 14898,
+        "other": 501,
+        "protein_coding": 23154,
+        "pseudogene": 8804,
+        "total": 47357
+      },
+      "gene_taxid": 10116,
+      "gene_taxname": "Rattus norvegicus"
+    },
+    {
+      "taxid": 7955,
+      "scientific_name": "Danio rerio",
+      "common_name": "zebrafish",
+      "assembly_accession": "GCF_052040795.1",
+      "assembly_name": "GRCz12ab",
+      "assembly_level": "Complete Genome",
+      "refseq_category": "reference genome",
+      "annotation_name": "GCF_052040795.1-RS_2026_07",
+      "annotation_release_date": "2026-07-20",
+      "gene_counts": {
+        "non_coding": 24452,
+        "other": 45,
+        "protein_coding": 28415,
+        "pseudogene": 710,
+        "total": 53622
+      },
+      "gene_taxid": 7955,
+      "gene_taxname": "Danio rerio"
+    },
+    {
+      "taxid": 7227,
+      "scientific_name": "Drosophila melanogaster",
+      "common_name": "fruit fly",
+      "assembly_accession": "GCF_000001215.4",
+      "assembly_name": "Release 6 plus ISO1 MT",
+      "assembly_level": "Chromosome",
+      "refseq_category": "reference genome",
+      "annotation_name": "FlyBase Release 6.54",
+      "annotation_release_date": "2023-12-26",
+      "gene_counts": {
+        "non_coding": 3543,
+        "other": 28,
+        "protein_coding": 13962,
+        "pseudogene": 339,
+        "total": 17872
+      },
+      "gene_taxid": 7227,
+      "gene_taxname": "Drosophila melanogaster"
+    },
+    {
+      "taxid": 6239,
+      "scientific_name": "Caenorhabditis elegans",
+      "common_name": "",
+      "assembly_accession": "GCF_000002985.6",
+      "assembly_name": "WBcel235",
+      "assembly_level": "Complete Genome",
+      "refseq_category": "reference genome",
+      "annotation_name": "WormBase WS298",
+      "annotation_release_date": "2025-12-01",
+      "gene_counts": {
+        "non_coding": 24811,
+        "other": 1,
+        "protein_coding": 19983,
+        "pseudogene": 2131,
+        "total": 46926
+      },
+      "gene_taxid": 6239,
+      "gene_taxname": "Caenorhabditis elegans"
+    },
+    {
+      "taxid": 4932,
+      "scientific_name": "Saccharomyces cerevisiae",
+      "common_name": "",
+      "assembly_accession": "GCF_000146045.2",
+      "assembly_name": "R64",
+      "assembly_level": "Complete Genome",
+      "refseq_category": "reference genome",
+      "annotation_name": "SGD R64-5-1",
+      "annotation_release_date": "2026-07-10",
+      "gene_counts": {
+        "non_coding": 438,
+        "protein_coding": 6021,
+        "pseudogene": 18,
+        "total": 6477
+      },
+      "gene_taxid": 559292,
+      "gene_taxname": "Saccharomyces cerevisiae S288C"
+    },
+    {
+      "taxid": 3702,
+      "scientific_name": "Arabidopsis thaliana",
+      "common_name": "thale cress",
+      "assembly_accession": "GCF_000001735.4",
+      "assembly_name": "TAIR10.1",
+      "assembly_level": "Chromosome",
+      "refseq_category": "reference genome",
+      "annotation_name": "Annotation submitted by TAIR and Araport",
+      "annotation_release_date": "2022-10-20",
+      "gene_counts": {
+        "non_coding": 5884,
+        "other": 15,
+        "protein_coding": 27562,
+        "pseudogene": 4851,
+        "total": 38312
+      },
+      "gene_taxid": 3702,
+      "gene_taxname": "Arabidopsis thaliana"
+    }
+  ],
+  "refseq_release_dates": [
+    "2022-10-20",
+    "2023-12-26",
+    "2024-02-01",
+    "2025-08-01",
+    "2025-12-01",
+    "2026-07-10",
+    "2026-07-20",
+    "2026-08-17"
+  ],
+  "build_date": "2026-08-28"
+}

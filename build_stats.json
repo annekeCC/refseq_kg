@@ -1,0 +1,41 @@
+{
+  "version": "1.2",
+  "nodes": {
+    "OrganismTaxon": 225,
+    "Genome": 22,
+    "Chromosome": 7437,
+    "Gene": 1221682,
+    "Transcript": 1926824,
+    "Protein": 1453477,
+    "GOTerm": 24749,
+    "Domain": 26229,
+    "ProteinSite": 1871503,
+    "ProteinRegion": 1474
+  },
+  "edges_PART_OF": 224,
+  "edges_HAS_PART": 7459,
+  "edges_HAS_SEQUENCE_LOCATION": 1221682,
+  "edges_TRANSCRIBED_TO": 1926665,
+  "edges_TRANSLATES_TO": 1453477,
+  "edges_HAS_GENE_PRODUCT": 1453431,
+  "edges_ORTHOLOGOUS_TO": 626204,
+  "edges_IN_TAXON": 1221682,
+  "edges_GO": {
+    "ENABLES": 1002944,
+    "ACTIVELY_INVOLVED_IN": 1077231,
+    "LOCATED_IN": 691586,
+    "IS_ACTIVE_IN": 138384,
+    "GO_PART_OF": 134968,
+    "ACTS_UPSTREAM_OF_OR_WITHIN": 135545,
+    "CONTRIBUTES_TO": 6302,
+    "COLOCALIZES_WITH": 3578,
+    "ACTS_UPSTREAM_OF": 3354
+  },
+  "edges_HAS_DOMAIN": 4502740,
+  "edges_HAS_SITE": 1873433,
+  "edges_HAS_REGION": 1474,
+  "total_genes": 1221682,
+  "total_nodes": 6533622,
+  "total_edges": 17482363,
+  "total_properties": 94314398
+}

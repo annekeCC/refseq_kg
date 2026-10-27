@@ -1,0 +1,369 @@
+{
+ "refseq_release": null,
+ "organisms": [
+  {
+   "taxid": 9606,
+   "scientific_name": "Homo sapiens",
+   "common_name": "human",
+   "assembly_accession": "GCF_000001405.40",
+   "assembly_name": "GRCh38.p14",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "GCF_000001405.40-RS_2025_08",
+   "annotation_release_date": "2025-08-01",
+   "gene_counts": {
+    "total": 192592
+   },
+   "gene_taxid": 9606,
+   "gene_taxname": "Homo sapiens"
+  },
+  {
+   "taxid": 10090,
+   "scientific_name": "Mus musculus",
+   "common_name": "house mouse",
+   "assembly_accession": "GCF_000001635.27",
+   "assembly_name": "GRCm39",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "GCF_000001635.27-RS_2024_02",
+   "annotation_release_date": "2024-02-01",
+   "gene_counts": {
+    "total": 107959
+   },
+   "gene_taxid": 10090,
+   "gene_taxname": "Mus musculus"
+  },
+  {
+   "taxid": 10116,
+   "scientific_name": "Rattus norvegicus",
+   "common_name": "Norway rat",
+   "assembly_accession": "GCF_036323735.1",
+   "assembly_name": "GRCr8",
+   "assembly_level": "Chromosome",
+   "refseq_category": "",
+   "annotation_name": "GCF_036323735.1-RS_2026_08",
+   "annotation_release_date": "2026-08-17",
+   "gene_counts": {
+    "total": 47819
+   },
+   "gene_taxid": 10116,
+   "gene_taxname": "Rattus norvegicus"
+  },
+  {
+   "taxid": 7955,
+   "scientific_name": "Danio rerio",
+   "common_name": "zebrafish",
+   "assembly_accession": "GCF_052040795.1",
+   "assembly_name": "GRCz12ab",
+   "assembly_level": "Complete Genome",
+   "refseq_category": "reference genome",
+   "annotation_name": "GCF_052040795.1-RS_2026_07",
+   "annotation_release_date": "2026-07-20",
+   "gene_counts": {
+    "total": 70881
+   },
+   "gene_taxid": 7955,
+   "gene_taxname": "Danio rerio"
+  },
+  {
+   "taxid": 7227,
+   "scientific_name": "Drosophila melanogaster",
+   "common_name": "fruit fly",
+   "assembly_accession": "GCF_000001215.4",
+   "assembly_name": "Release 6 plus ISO1 MT",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "FlyBase Release 6.54",
+   "annotation_release_date": "2023-12-26",
+   "gene_counts": {
+    "total": 17872
+   },
+   "gene_taxid": 7227,
+   "gene_taxname": "Drosophila melanogaster"
+  },
+  {
+   "taxid": 6239,
+   "scientific_name": "Caenorhabditis elegans",
+   "common_name": "",
+   "assembly_accession": "GCF_000002985.6",
+   "assembly_name": "WBcel235",
+   "assembly_level": "Complete Genome",
+   "refseq_category": "reference genome",
+   "annotation_name": "WormBase WS298",
+   "annotation_release_date": "2025-12-01",
+   "gene_counts": {
+    "total": 46926
+   },
+   "gene_taxid": 6239,
+   "gene_taxname": "Caenorhabditis elegans"
+  },
+  {
+   "taxid": 4932,
+   "scientific_name": "Saccharomyces cerevisiae",
+   "common_name": "",
+   "assembly_accession": "GCF_000146045.2",
+   "assembly_name": "R64",
+   "assembly_level": "Complete Genome",
+   "refseq_category": "reference genome",
+   "annotation_name": "SGD R64-5-1",
+   "annotation_release_date": "2026-07-10",
+   "gene_counts": {
+    "total": 6477
+   },
+   "gene_taxid": 559292,
+   "gene_taxname": "Saccharomyces cerevisiae S288C"
+  },
+  {
+   "taxid": 3702,
+   "scientific_name": "Arabidopsis thaliana",
+   "common_name": "thale cress",
+   "assembly_accession": "GCF_000001735.4",
+   "assembly_name": "TAIR10.1",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "Annotation submitted by TAIR and Araport",
+   "annotation_release_date": "2022-10-20",
+   "gene_counts": {
+    "total": 38312
+   },
+   "gene_taxid": 3702,
+   "gene_taxname": "Arabidopsis thaliana"
+  },
+  {
+   "taxid": 4577,
+   "scientific_name": "Zea mays",
+   "common_name": "maize",
+   "assembly_accession": "GCF_902167145.1",
+   "assembly_name": "Zm-B73-REFERENCE-NAM-5.0",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "",
+   "annotation_release_date": "",
+   "gene_counts": {
+    "total": 49732
+   },
+   "gene_taxid": 4577,
+   "gene_taxname": "Zea mays"
+  },
+  {
+   "taxid": 4565,
+   "scientific_name": "Triticum aestivum",
+   "common_name": "bread wheat",
+   "assembly_accession": "GCF_018294505.1",
+   "assembly_name": "IWGSC CS RefSeq v2.1",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "",
+   "annotation_release_date": "",
+   "gene_counts": {
+    "total": 155869
+   },
+   "gene_taxid": 4565,
+   "gene_taxname": "Triticum aestivum"
+  },
+  {
+   "taxid": 4530,
+   "scientific_name": "Oryza sativa",
+   "common_name": "rice",
+   "assembly_accession": "GCF_034140825.1",
+   "assembly_name": "AGIS1.0",
+   "assembly_level": "Complete Genome",
+   "refseq_category": "reference genome",
+   "annotation_name": "",
+   "annotation_release_date": "",
+   "gene_counts": {
+    "total": 39420
+   },
+   "gene_taxid": 39947,
+   "gene_taxname": "Oryza sativa Japonica Group"
+  },
+  {
+   "taxid": 3847,
+   "scientific_name": "Glycine max",
+   "common_name": "soybean",
+   "assembly_accession": "GCF_000004515.6",
+   "assembly_name": "Glycine_max_v4.0",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "",
+   "annotation_release_date": "",
+   "gene_counts": {
+    "total": 59140
+   },
+   "gene_taxid": 3847,
+   "gene_taxname": "Glycine max"
+  },
+  {
+   "taxid": 4081,
+   "scientific_name": "Solanum lycopersicum",
+   "common_name": "tomato",
+   "assembly_accession": "GCF_036512215.1",
+   "assembly_name": "SLM_r2.1",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "",
+   "annotation_release_date": "",
+   "gene_counts": {
+    "total": 41527
+   },
+   "gene_taxid": 4081,
+   "gene_taxname": "Solanum lycopersicum"
+  },
+  {
+   "taxid": 4113,
+   "scientific_name": "Solanum tuberosum",
+   "common_name": "potato",
+   "assembly_accession": "GCF_000226075.1",
+   "assembly_name": "SolTub_3.0",
+   "assembly_level": "Scaffold",
+   "refseq_category": "reference genome",
+   "annotation_name": "",
+   "annotation_release_date": "",
+   "gene_counts": {
+    "total": 32941
+   },
+   "gene_taxid": 4113,
+   "gene_taxname": "Solanum tuberosum"
+  },
+  {
+   "taxid": 9913,
+   "scientific_name": "Bos taurus",
+   "common_name": "cattle",
+   "assembly_accession": "GCF_002263795.3",
+   "assembly_name": "ARS-UCD2.0",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "",
+   "annotation_release_date": "",
+   "gene_counts": {
+    "total": 37346
+   },
+   "gene_taxid": 9913,
+   "gene_taxname": "Bos taurus"
+  },
+  {
+   "taxid": 9823,
+   "scientific_name": "Sus scrofa",
+   "common_name": "pig",
+   "assembly_accession": "GCF_054392235.1",
+   "assembly_name": "Sscrofa_HxYL_maternal_Yorkshire_Landrace_v2.0",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "",
+   "annotation_release_date": "",
+   "gene_counts": {
+    "total": 39269
+   },
+   "gene_taxid": 9823,
+   "gene_taxname": "Sus scrofa"
+  },
+  {
+   "taxid": 9031,
+   "scientific_name": "Gallus gallus",
+   "common_name": "chicken",
+   "assembly_accession": "GCF_016699485.2",
+   "assembly_name": "bGalGal1.mat.broiler.GRCg7b",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "",
+   "annotation_release_date": "",
+   "gene_counts": {
+    "total": 28261
+   },
+   "gene_taxid": 9031,
+   "gene_taxname": "Gallus gallus"
+  },
+  {
+   "taxid": 8030,
+   "scientific_name": "Salmo salar",
+   "common_name": "Atlantic salmon",
+   "assembly_accession": "GCF_965601325.1",
+   "assembly_name": "fSalSal1",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "",
+   "annotation_release_date": "",
+   "gene_counts": {
+    "total": 86726
+   },
+   "gene_taxid": 8030,
+   "gene_taxname": "Salmo salar"
+  },
+  {
+   "taxid": 8022,
+   "scientific_name": "Oncorhynchus mykiss",
+   "common_name": "rainbow trout",
+   "assembly_accession": "GCF_013265735.2",
+   "assembly_name": "USDA_OmykKC_1.0",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "",
+   "annotation_release_date": "",
+   "gene_counts": {
+    "total": 72920
+   },
+   "gene_taxid": 8022,
+   "gene_taxname": "Oncorhynchus mykiss"
+  },
+  {
+   "taxid": 9940,
+   "scientific_name": "Ovis aries",
+   "common_name": "sheep",
+   "assembly_accession": "GCF_016772045.2",
+   "assembly_name": "ARS-UI_Ramb_v3.0",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "",
+   "annotation_release_date": "",
+   "gene_counts": {
+    "total": 35185
+   },
+   "gene_taxid": 9940,
+   "gene_taxname": "Ovis aries"
+  },
+  {
+   "taxid": 9925,
+   "scientific_name": "Capra hircus",
+   "common_name": "goat",
+   "assembly_accession": "GCF_001704415.1",
+   "assembly_name": "ARS1.1",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "",
+   "annotation_release_date": "",
+   "gene_counts": {
+    "total": 29052
+   },
+   "gene_taxid": 9925,
+   "gene_taxname": "Capra hircus"
+  },
+  {
+   "taxid": 29760,
+   "scientific_name": "Vitis vinifera",
+   "common_name": "grape",
+   "assembly_accession": "GCF_030704535.1",
+   "assembly_name": "ASM3070453v1",
+   "assembly_level": "Chromosome",
+   "refseq_category": "reference genome",
+   "annotation_name": "",
+   "annotation_release_date": "",
+   "gene_counts": {
+    "total": 29614
+   },
+   "gene_taxid": 29760,
+   "gene_taxname": "Vitis vinifera"
+  }
+ ],
+ "refseq_release_dates": [
+  "2022-10-20",
+  "2023-12-26",
+  "2024-02-01",
+  "2025-08-01",
+  "2025-12-01",
+  "2026-07-10",
+  "2026-07-20",
+  "2026-08-17"
+ ],
+ "build_date": "2026-09-16",
+ "version": "1.3"
+}
