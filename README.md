@@ -2,6 +2,8 @@
 
 A BioLink-conformant Neo4j property graph built from NCBI RefSeq data for 22 model organisms, designed as a training dataset for KG embeddings, GNNs, and LLM/RAG applications.
 
+This project was developed using Biomni.
+
 **Scale**: 6,533,622 nodes | 17,482,363 relationships | 94,314,398 properties | 22 organisms
 
 ---
